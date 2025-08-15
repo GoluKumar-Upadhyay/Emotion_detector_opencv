@@ -1,0 +1,15 @@
+User uploads or captures an image.
+
+DeepFace analyzes the image → outputs dominant emotion.
+
+Project maps the emotion to an emoji using your emotion_to_emoji dictionary.
+
+Search YouTube for related videos using the detected emotion.
+
+Render results on index.html:
+
+Shows the image
+
+Displays the detected emotion and emoji
+
+Lists recommended YouTube links
