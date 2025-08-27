@@ -84,9 +84,13 @@ This project demonstrates **Computer Vision**, **Deep Learning**, and **Web Deve
 
 
 ## 💻 Installa![Screenshot_27-8-2025_22845_127 0 0 1](https://github.com/user-attachments/assets/b5b6a45c-0774-490a-9dd3-231adf37490d)
-tion  
+
 
 1. **Clone the repository:**  
 ```bash
 git clone https://github.com/yourusername/emotion-detector.git
 cd emotion-detector
+
+2. **Install dependencies:**
+ - install requirements.txt
+
